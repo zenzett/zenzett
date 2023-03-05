@@ -41,4 +41,4 @@ I'm Zain, Frontend Developer from <img src="https://cdn-icons-png.flaticon.com/5
 </p>
 
 ------------
-<p align="center">This <i>README</i> file is generated with heart.</br>
+<p align="center">This profile introduction is made with heart.</br>
