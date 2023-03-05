@@ -5,7 +5,7 @@ I'm Zain, Frontend Developer from <img src="https://cdn-icons-png.flaticon.com/5
 
 </br>
 
-##### Things I code with
+#### Things I code with
 <p>
 <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 <img alt="css3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
@@ -36,13 +36,9 @@ I'm Zain, Frontend Developer from <img src="https://cdn-icons-png.flaticon.com/5
 <img alt="telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" />
 </p>
 
-</br>
-
-##### Where to find me
+#### Where to find me
 <a href="https://www.linkedin.com/in/ahmad-zain-af/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" /></a>
 </p>
-
-</br>
 
 ------------
 <p align="center">This <i>README</i> file is generated with heart.</br>
