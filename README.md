@@ -5,12 +5,12 @@
 </br>
 
 ### My GitHub Stats
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=zenzett&show_icons=true&theme=transparent&hide_border=true&ring=161b228&include_all_commits=true&count_private=true" alt="Zain's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zenzett&theme=transparent&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=zenzett&show_icons=true&theme=github_dark&hide_border=true&ring=161b228&include_all_commits=true&count_private=true" alt="Zain's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zenzett&theme=github_dark&hide_border=true" /></a> |
  | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
  
 </div>
 <div align='center'>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenzett&layout=compact&theme=transparent&hide_border=false" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenzett&layout=compact&theme=github_dark&hide_border=false" /></a>
 </div>
 
 ### Things I code with
@@ -50,7 +50,7 @@
  <p align="left">
     <a href="https://github.com/zenzett/timesync-attendance"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=zenzett&repo=timesync-attendance&theme=transparent&bg_color=1F222E&title_color=2CA5E0&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
     <a href="https://github.com/zenzett/ecommerce-app"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=zenzett&repo=ecommerce-app&theme=transparent&bg_color=1F222E&title_color=2CA5E0&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-    <a href="https://github.com/zenzett/mymovies-app-react"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=zenzett&repo=mymovies-app-react&theme=transparent&bg_color=1F222E&title_color=2CA5E0&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/zenzett/mymovies-app-react"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=zenzett&repo=mymovies-app-react&theme=github_dark&show_icons=true" alt="github-readme-streak-stats"></a>
   </p>
   
 <p align="center">
