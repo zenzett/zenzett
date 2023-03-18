@@ -1,7 +1,7 @@
 ## Hi! Nice to see you!
- <p align="center">
+ <h3 align="center">
     I'm Zain, Frontend Developer from <img src="https://cdn-icons-png.flaticon.com/512/940/940247.png" width="13"/> Depok, Indonesia.
-  </p>
+  </h3>
 </br>
 
 ### My GitHub Stats
