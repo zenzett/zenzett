@@ -1,7 +1,8 @@
-## Hi! Nice to see you!
- <h3 align="center">
-    I'm Zain, Frontend Developer from <img src="https://cdn-icons-png.flaticon.com/512/940/940247.png" width="13"/> Depok, Indonesia.
-  </h3>
+<h3 align="center">
+Hi, nice to see you!
+
+I'm Zain, Frontend Developer from <img src="https://cdn-icons-png.flaticon.com/512/940/940247.png" width="13"/> Depok, Indonesia.
+</h3>
 
 ### My GitHub Stats
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=zenzett&show_icons=true&theme=codeSTACKr&border_color=FFFFFF&hide_border=false&ring=161b228&include_all_commits=true&count_private=true" alt="Zain's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zenzett&theme=codeSTACKr&border_color=FFFFFF&hide_border=false" /></a> |
