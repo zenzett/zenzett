@@ -5,7 +5,7 @@
 </br>
 
 #### My GitHub Stats
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=zenzett&theme=dark&hide_border=false&ring=161b228&include_all_commits=true&count_private=true" alt="Zain's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zenzett&theme=dark&hide_border=false" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=zenzett&theme=dark&hide_border=true&ring=161b228&include_all_commits=true&count_private=true" alt="Zain's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zenzett&theme=dark&hide_border=true" /></a> |
  | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
  
 </div>
