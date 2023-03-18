@@ -58,7 +58,7 @@
 </p>
  
 ### Where to find me
-<a href="https://www.linkedin.com/in/ahmad-zain-af/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/ahmad-zain-af/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&border_color=FFFFFF&hide_border=false" /></a>
 </p>
 
 ------------
