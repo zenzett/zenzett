@@ -44,8 +44,11 @@ I'm Zain, Frontend Developer from <img src="https://cdn-icons-png.flaticon.com/5
  <p align="left">
     <a href="https://github.com/zenzett/timesync-attendance"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=zenzett&repo=timesync-attendance&theme=react&bg_color=1F222E&title_color=2CA5E0&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
     <a href="https://github.com/zenzett/ecommerce-app"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=zenzett&repo=ecommerce-app&theme=react&bg_color=1F222E&title_color=2CA5E0&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-    <a href="https://github.com/zenzett/pokemon-app"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=zenzett&repo=pokemon-app&theme=react&bg_color=1F222E&title_color=2CA5E0&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
     <a href="https://github.com/zenzett/mymovies-app-react"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=zenzett&repo=mymovies-app-react&theme=react&bg_color=1F222E&title_color=2CA5E0&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
   </p>
+  
+<p align="center">
+  <a href="https://github.com/aryoyudhanto?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+</p>
 ------------
 <p align="center">This profile introduction is made with heart.</br>
