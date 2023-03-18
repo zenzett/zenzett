@@ -15,33 +15,33 @@
 
 ### Things I code with
 <p>
-<img alt="html5" src="https://img.shields.io/badge/-HTML5-%23000000?style=flat-square&logo=html5&logoColor=" />
-<img alt="css3" src="https://img.shields.io/badge/-CSS3-%23000000?style=flat-square&logo=CSS3&logoColor=1572B6"/>
-<img alt="javascript" src="https://img.shields.io/badge/JavaScript-%23000000.svg?style=flat-square&logo=javascript&logoColor=" />
-<img alt="typescript" src="https://img.shields.io/badge/-TypeScript-%23000000?style=flat-square&logo=typescript&logoColor=" />
-<img alt="react" src="https://img.shields.io/badge/ReactJS-%23000000.svg?style=flat-square&logo=react&logoColor=" />
-<img alt="vite" src="https://img.shields.io/badge/Vite-%23000000.svg?style=flat-square&logo=vite&logoColor=" />
-<img alt="tailwind" src="https://img.shields.io/badge/TailwindCSS-%23000000.svg?style=flat-square&logo=tailwind-css&logoColor=" />
-<img alt="daisyui" src="https://img.shields.io/badge/DaisyUI-%23000000.svg?style=flat-square&logo=daisyui&logoColor=%23F7DF1E" />
-<img alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-%23000000.svg?style=flat-square&logo=bootstrap&logoColor=" />
-<img alt="chartjs" src="https://img.shields.io/badge/Chart.js-%23000000.svg?style=flat-square&logo=chart.js&logoColor=" />
-<img alt="reactrouter" src="https://img.shields.io/badge/React%20Router-%23000000?style=flat-square&logo=react-router&logoColor=" />
-<img alt="markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=" />
-<img alt="visualstudiocode" src="https://img.shields.io/badge/-Visual%20Studio%20Code-%23000000?style=flat-square&logo=Visual%20Studio%20Code&logoColor=0078d7"/>
-<img alt="prettier" src="https://img.shields.io/badge/-Prettier-%23000000?style=flat-square&logo=prettier&borderColor=red&border_color=yellow&logoColor=" />
-<img alt="figma" src="https://img.shields.io/badge/Figma-%23000000.svg?style=flat-square&logo=figma&logoColor="/>
-<img alt="vercel" src="https://img.shields.io/badge/Vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=" />
-<img alt="netlify" src="https://img.shields.io/badge/Netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7" />
-<img alt="postman" src="https://img.shields.io/badge/Postman-%23000000?style=flat-square&logo=postman&logoColor=" />
-<img alt="swagger" src="https://img.shields.io/badge/-Swagger-%23000000?style=flat-square&logo=swagger&logoColor=" />
-<img alt="git" src="https://img.shields.io/badge/Git-%23000000.svg?style=flat-square&logo=git&logoColor="/>
-<img alt="github" src="https://img.shields.io/badge/GitHub-%23000000.svg?style=flat-square&logo=github&logoColor="/>
-<img alt="jira" src="https://img.shields.io/badge/Jira-%23000000.svg?style=flat-square&logo=jira&logoColor=%230A0FFF" />
-<img alt="edge" src="https://img.shields.io/badge/Edge-%23000000?style=flat-square&logo=Microsoft-edge&logoColor=0078D7"/>
-<img alt="chrome" src="https://img.shields.io/badge/Google%20Chrome-%23000000?style=flat-square&logo=GoogleChrome&logoColor="/>
-<img alt="slack" src="https://img.shields.io/badge/-Slack-%23000000?style=flat-square&logo=Slack&logoColor=E01563"/>
-<img alt="discord" src="https://img.shields.io/badge/Discord-%23000000.svg?style=flat-square&logo=discord&logoColor=" />
-<img alt="telegram" src="https://img.shields.io/badge/Telegram-%23000000?style=flat-square&logo=telegram&logoColor=" />
+<img alt="html5" src="https://img.shields.io/badge/-HTML5-09131B?style=flat-square&logo=html5&logoColor=" />
+<img alt="css3" src="https://img.shields.io/badge/-CSS3-09131B?style=flat-square&logo=CSS3&logoColor=1572B6"/>
+<img alt="javascript" src="https://img.shields.io/badge/JavaScript-09131B.svg?style=flat-square&logo=javascript&logoColor=" />
+<img alt="typescript" src="https://img.shields.io/badge/-TypeScript-09131B?style=flat-square&logo=typescript&logoColor=" />
+<img alt="react" src="https://img.shields.io/badge/ReactJS-09131B.svg?style=flat-square&logo=react&logoColor=" />
+<img alt="vite" src="https://img.shields.io/badge/Vite-09131B.svg?style=flat-square&logo=vite&logoColor=" />
+<img alt="tailwind" src="https://img.shields.io/badge/TailwindCSS-09131B.svg?style=flat-square&logo=tailwind-css&logoColor=" />
+<img alt="daisyui" src="https://img.shields.io/badge/DaisyUI-09131B.svg?style=flat-square&logo=daisyui&logoColor=%23F7DF1E" />
+<img alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-09131B.svg?style=flat-square&logo=bootstrap&logoColor=" />
+<img alt="chartjs" src="https://img.shields.io/badge/Chart.js-09131B.svg?style=flat-square&logo=chart.js&logoColor=" />
+<img alt="reactrouter" src="https://img.shields.io/badge/React%20Router-09131B?style=flat-square&logo=react-router&logoColor=" />
+<img alt="markdown" src="https://img.shields.io/badge/Markdown-09131B.svg?style=flat-square&logo=markdown&logoColor=" />
+<img alt="visualstudiocode" src="https://img.shields.io/badge/-Visual%20Studio%20Code-09131B?style=flat-square&logo=Visual%20Studio%20Code&logoColor=0078d7"/>
+<img alt="prettier" src="https://img.shields.io/badge/-Prettier-09131B?style=flat-square&logo=prettier&borderColor=red&border_color=yellow&logoColor=" />
+<img alt="figma" src="https://img.shields.io/badge/Figma-09131B.svg?style=flat-square&logo=figma&logoColor="/>
+<img alt="vercel" src="https://img.shields.io/badge/Vercel-09131B.svg?style=flat-square&logo=vercel&logoColor=" />
+<img alt="netlify" src="https://img.shields.io/badge/Netlify-09131B.svg?style=flat-square&logo=netlify&logoColor=#00C7B7" />
+<img alt="postman" src="https://img.shields.io/badge/Postman-09131B?style=flat-square&logo=postman&logoColor=" />
+<img alt="swagger" src="https://img.shields.io/badge/-Swagger-09131B?style=flat-square&logo=swagger&logoColor=" />
+<img alt="git" src="https://img.shields.io/badge/Git-09131B.svg?style=flat-square&logo=git&logoColor="/>
+<img alt="github" src="https://img.shields.io/badge/GitHub-09131B.svg?style=flat-square&logo=github&logoColor="/>
+<img alt="jira" src="https://img.shields.io/badge/Jira-09131B.svg?style=flat-square&logo=jira&logoColor=%230A0FFF" />
+<img alt="edge" src="https://img.shields.io/badge/Edge-09131B?style=flat-square&logo=Microsoft-edge&logoColor=0078D7"/>
+<img alt="chrome" src="https://img.shields.io/badge/Google%20Chrome-09131B?style=flat-square&logo=GoogleChrome&logoColor="/>
+<img alt="slack" src="https://img.shields.io/badge/-Slack-09131B?style=flat-square&logo=Slack&logoColor=E01563"/>
+<img alt="discord" src="https://img.shields.io/badge/Discord-09131B.svg?style=flat-square&logo=discord&logoColor=" />
+<img alt="telegram" src="https://img.shields.io/badge/Telegram-09131B?style=flat-square&logo=telegram&logoColor=" />
 </p>
 
 
@@ -58,7 +58,7 @@
 </p>
  
 ### Where to find me
-<a href="https://www.linkedin.com/in/ahmad-zain-af/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%23000000.svg?&style=flat-square&logo=linkedin&logoColor=0A66C2&border_color=0A66C2&hide_border=false" /></a>
+<a href="https://www.linkedin.com/in/ahmad-zain-af/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?&style=flat-square&logo=linkedin&logoColor=&border_color=FFFFFF&hide_border=false" /></a>
 </p>
 
 ------------
