@@ -48,9 +48,9 @@
 
 ### My Projects
  <p align="left">
-    <a href="https://github.com/zenzett/timesync-attendance"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=zenzett&repo=timesync-attendance&theme=transparent&bg_color=1F222E&title_color=2CA5E0&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-    <a href="https://github.com/zenzett/ecommerce-app"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=zenzett&repo=ecommerce-app&theme=transparent&bg_color=1F222E&title_color=2CA5E0&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-    <a href="https://github.com/zenzett/mymovies-app-react"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=zenzett&repo=mymovies-app-react&theme=github_dark&show_icons=true" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/zenzett/timesync-attendance"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=zenzett&repo=timesync-attendance&show_icons=true&theme=codeSTACKr" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/zenzett/ecommerce-app"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=zenzett&repo=ecommerce-app&show_icons=true&theme=codeSTACKr" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/zenzett/mymovies-app-react"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=zenzett&repo=mymovies-app-react&show_icons=true&theme=codeSTACKr" alt="github-readme-streak-stats"></a>
   </p>
   
 <p align="center">
