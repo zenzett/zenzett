@@ -47,8 +47,18 @@ I'm Zain, Frontend Developer from <img src="https://cdn-icons-png.flaticon.com/5
     <a href="https://github.com/zenzett/mymovies-app-react"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=zenzett&repo=mymovies-app-react&theme=react&bg_color=1F222E&title_color=2CA5E0&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
   </p>
   
+#### My GitHub Stats
 <p align="center">
   <a href="https://github.com/aryoyudhanto?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
+
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=zenzett&theme=sea&hide_border=false&ring=161b228&include_all_commits=true&count_private=true" alt="Novalia's github stats" /></a><a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zenzett&theme=sea&hide_border=false" /></a>
+
+<div align='center'>
+  
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenzett&layout=compact&theme=sea&hide_border=false" /></a>
+  
+ </div>
+
 ------------
 <p align="center">This profile introduction is made with heart.</br>
