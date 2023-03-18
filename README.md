@@ -4,7 +4,7 @@
   </p>
 </br>
 
-#### My GitHub Stats
+### My GitHub Stats
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=zenzett&theme=dark&hide_border=true&ring=161b228&include_all_commits=true&count_private=true" alt="Zain's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zenzett&theme=dark&hide_border=true" /></a> |
  | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
  
@@ -13,7 +13,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenzett&layout=compact&theme=dark&hide_border=false" /></a>
 </div>
 
-#### Things I code with
+### Things I code with
 <p>
 <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 <img alt="css3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
@@ -46,7 +46,7 @@
 
 
 
-#### My Projects
+### My Projects
  <p align="left">
     <a href="https://github.com/zenzett/timesync-attendance"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=zenzett&repo=timesync-attendance&theme=react&bg_color=1F222E&title_color=2CA5E0&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
     <a href="https://github.com/zenzett/ecommerce-app"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=zenzett&repo=ecommerce-app&theme=react&bg_color=1F222E&title_color=2CA5E0&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
@@ -57,7 +57,7 @@
   <a href="https://github.com/aryoyudhanto?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
  
- #### Where to find me
+### Where to find me
 <a href="https://www.linkedin.com/in/ahmad-zain-af/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" /></a>
 </p>
 
