@@ -22,6 +22,7 @@
 <img alt="react" src="https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" />
 <img alt="vite" src="https://img.shields.io/badge/Vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white" />
 <img alt="tailwind" src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white" />
+<img alt="daisyui" src="https://img.shields.io/badge/Daisy%20UI-E34F26.svg?style=flat-square&logo=daisyui&logoColor=white" />
 <img alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white" />
 <img alt="chartjs" src="https://img.shields.io/badge/Chart.js-F5788D.svg?style=flat-square&logo=chart.js&logoColor=white" />
 <img alt="reactrouter" src="https://img.shields.io/badge/React%20Router-CA4245?style=flat-square&logo=react-router&logoColor=white" />
