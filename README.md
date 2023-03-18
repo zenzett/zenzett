@@ -27,7 +27,6 @@
 <img alt="chartjs" src="https://img.shields.io/badge/Chart.js-F5788D.svg?style=flat-square&logo=chart.js&logoColor=white" />
 <img alt="reactrouter" src="https://img.shields.io/badge/React%20Router-CA4245?style=flat-square&logo=react-router&logoColor=white" />
 <img alt="markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white" />
-
 <img alt="visualstudiocode" src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
 <img alt="prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
 <img alt="figma" src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white"/>
