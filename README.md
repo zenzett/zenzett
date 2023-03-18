@@ -30,12 +30,12 @@ I'm Zain, Frontend Developer from <img src="https://cdn-icons-png.flaticon.com/5
 <img alt="visualstudiocode" src="https://img.shields.io/badge/-Visual%20Studio%20Code-0078d7?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
 <img alt="prettier" src="https://img.shields.io/badge/-Prettier-E35956?style=flat-square&logo=prettier&borderColor=red&border_color=yellow&logoColor=white"/>
 <img alt="figma" src="https://img.shields.io/badge/Figma-ff3b00.svg?style=flat-square&logo=figma&logoColor=white"/>
-<img alt="vercel" src="https://img.shields.io/badge/Vercel-2A2A2A.svg?style=flat-square&logo=vercel&logoColor=white"/>
+<img alt="vercel" src="https://img.shields.io/badge/Vercel-000000.svg?style=flat-square&logo=vercel&logoColor=white"/>
 <img alt="netlify" src="https://img.shields.io/badge/Netlify-2FACB1.svg?style=flat-square&logo=netlify&logoColor=white"/>
 <img alt="postman" src="https://img.shields.io/badge/Postman-EF5B25?style=flat-square&logo=postman&logoColor=white"/>
 <img alt="swagger" src="https://img.shields.io/badge/-Swagger-459B29?style=flat-square&logo=swagger&logoColor=white"/>
 <img alt="git" src="https://img.shields.io/badge/Git-f1502f.svg?style=flat-square&logo=git&logoColor=white"/>
-<img alt="github" src="https://img.shields.io/badge/GitHub-2A2A2A.svg?style=flat-square&logo=github&logoColor=white"/>
+<img alt="github" src="https://img.shields.io/badge/GitHub-000000.svg?style=flat-square&logo=github&logoColor=white"/>
 <img alt="jira" src="https://img.shields.io/badge/Jira-0146b3.svg?style=flat-square&logo=jira&logoColor=white"/>
 <img alt="edge" src="https://img.shields.io/badge/Edge-0078d7?style=flat-square&logo=Microsoft-edge&logoColor=white"/>
 <img alt="chrome" src="https://img.shields.io/badge/Google%20Chrome-1a73e8?style=flat-square&logo=GoogleChrome&logoColor=white"/>
