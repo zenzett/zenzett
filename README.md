@@ -10,7 +10,7 @@
  
 </div>
 <div align='center'>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenzett&layout=compact&theme=codeSTACKr&border_color=2CA5E0&hide_border=false" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenzett&layout=compact&theme=codeSTACKr&border_color=FFFFFF&hide_border=false" /></a>
 </div>
 
 ### Things I code with
