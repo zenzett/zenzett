@@ -40,5 +40,12 @@ I'm Zain, Frontend Developer from <img src="https://cdn-icons-png.flaticon.com/5
 <a href="https://www.linkedin.com/in/ahmad-zain-af/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" /></a>
 </p>
 
+#### My Projects
+ <p align="left">
+    <a href="https://github.com/zenzett/timesync-attendance"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=zenzett&repo=timesync-attendance&theme=react&bg_color=1F222E&title_color=2CA5E0&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/zenzett/ecommerce-app"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=zenzett&repo=ecommerce-app&theme=react&bg_color=1F222E&title_color=2CA5E0&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/zenzett/pokemon-app"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=zenzett&repo=pokemon-app&theme=react&bg_color=1F222E&title_color=2CA5E0&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/zenzett/mymovies-app-react"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=zenzett&repo=mymovies-app-react&theme=react&bg_color=1F222E&title_color=2CA5E0&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+  </p>
 ------------
 <p align="center">This profile introduction is made with heart.</br>
