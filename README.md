@@ -1,3 +1,9 @@
+<p align="center">
+<h2>Hi, nice to see you!</h2>
+
+<h3>I'm Zain, Frontend Developer from <img src="https://cdn-icons-png.flaticon.com/512/940/940247.png" width="13"/> Depok, Indonesia.</h3>
+</p>
+
 <h3 align="center">
 Hi, nice to see you!
 
