@@ -54,7 +54,7 @@
   </p>
   
 <p align="center">
-  <a href="https://github.com/aryoyudhanto?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+  <a href="https://github.com/aryoyudhanto?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20here%20to%20see%20my%20repositories.-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
  
 ### Where to find me
